@@ -1,7 +1,7 @@
 # CSE 490g Final Project
 Aric Prieve
 
-This is my final project for [CSE 490g Autumn 2022](https://courses.cs.washington.edu/courses/cse490g1/22au/) at the University of Washington.
+This is my final project for [CSE 490g Autumn 2022](https://courses.cs.washington.edu/courses/cse490g1/22au/) at the University of Washington. The code for this project is [here](https://github.com/arprieve/deep-learning-final-project). 
 
 ### Abstract 
 
