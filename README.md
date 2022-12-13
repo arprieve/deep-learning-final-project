@@ -33,6 +33,10 @@ My model did surprsingly well. My final accuracy was 99% with the model I chose 
 
 ![Test Accuracy](test_acc.png)
 
+## Video
+
+Link [here](https://drive.google.com/file/d/1iu7rWWjw-b4TsAQNDRTH8lDsMtLOnlAW/view?usp=sharing)
+
 ## Related work
 
 The main resources I used were `simple_image_download` the API and referencing/using the heavily the code from the python notebook assignments this quarter.
