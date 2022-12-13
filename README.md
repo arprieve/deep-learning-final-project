@@ -25,6 +25,8 @@ I then created another python notebook similar to homework 1 from this quarter. 
 
 ### Results
 
+![Train Loss](train_loss.pdf)
+
 ### Examples
 
 ### Video
